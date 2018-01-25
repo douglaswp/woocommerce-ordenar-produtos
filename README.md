@@ -1,4 +1,4 @@
-# woocommerce-ordenar-produtos
+# Woocommerce ordenar produtos por disponibilidade
 
 Adicione o código do arquivo functions.php ao arquivo functions.php do seu tema.
 
